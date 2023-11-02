@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1698909817,,"wq!"
+|2,0,1698910169,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,24 +25,47 @@
 # Registers:
 
 # File marks:
-'0  1  24  ~/master.txt
-|4,48,1,24,1698909817,"~/master.txt"
-'1  2  0  ~/facebook/test
-|4,49,2,0,1698903964,"~/facebook/test"
+'0  2  0  ~/hotflix.txt
+|4,48,2,0,1698910169,"~/hotflix.txt"
+'1  1  24  ~/master.txt
+|4,49,1,24,1698909817,"~/master.txt"
+'2  2  0  ~/facebook/test
+|4,50,2,0,1698903964,"~/facebook/test"
 
 # Jumplist (newest first):
+-'  2  0  ~/hotflix.txt
+|4,39,2,0,1698910169,"~/hotflix.txt"
+-'  1  0  ~/hotflix.txt
+|4,39,1,0,1698910153,"~/hotflix.txt"
+-'  1  24  ~/master.txt
+|4,39,1,24,1698909817,"~/master.txt"
 -'  1  24  ~/master.txt
 |4,39,1,24,1698909817,"~/master.txt"
 -'  2  0  ~/facebook/test
 |4,39,2,0,1698903964,"~/facebook/test"
 -'  2  0  ~/facebook/test
 |4,39,2,0,1698903964,"~/facebook/test"
+-'  2  0  ~/facebook/test
+|4,39,2,0,1698903964,"~/facebook/test"
+-'  2  0  ~/facebook/test
+|4,39,2,0,1698903964,"~/facebook/test"
+-'  1  0  ~/facebook/test
+|4,39,1,0,1698903948,"~/facebook/test"
+-'  1  0  ~/facebook/test
+|4,39,1,0,1698903948,"~/facebook/test"
 -'  1  0  ~/facebook/test
 |4,39,1,0,1698903948,"~/facebook/test"
 -'  1  0  ~/facebook/test
 |4,39,1,0,1698903948,"~/facebook/test"
 
 # History of marks within files (newest to oldest):
+
+> ~/hotflix.txt
+	*	1698910166	0
+	"	2	0
+	^	2	0
+	.	1	26
+	+	1	26
 
 > ~/master.txt
 	*	1698909813	0
